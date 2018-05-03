@@ -67,7 +67,7 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.usb.accessory.xml:system/etc/permissions/android.hardware.usb.accessory.xml \
     frameworks/native/data/etc/android.software.freeform_window_management.xml:system/etc/permissions/android.software.freeform_window_management.xml
 
-# Build characteristics setting 
+# Build characteristics setting
 PRODUCT_CHARACTERISTICS := tablet
 
 # Extra packages to build for this device
@@ -158,4 +158,3 @@ $(call inherit-product, frameworks/native/build/tablet-dalvik-heap.mk)
 # Add commands which are tf101 specific after here
 BOOTANIMATION_RESOLUTION := KatKiss
 $(call inherit-product-if-exists, vendor/kat/common.mk)
-
