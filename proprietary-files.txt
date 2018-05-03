@@ -72,7 +72,7 @@ lib/mpu6050/libmplmpu.so
 lib/mpu6050/libsensors.mpl6050.so
 
 lib/libopencv24_tegra.so
-lib/libtbb.so 
+lib/libtbb.so
 
 lib/libasound.so
 lib/libaudioavp.so

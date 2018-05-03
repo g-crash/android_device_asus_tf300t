@@ -29,7 +29,7 @@ PRODUCT_AAPT_PREF_CONFIG := mdpi
 PRODUCT_AAPT_PREBUILT_DPI := mdpi ldpi tvdpi hdpi xhdpi
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := full_tf300t
+PRODUCT_NAME := lineage_tf300t
 PRODUCT_DEVICE := tf300t
 PRODUCT_BRAND := Asus
 PRODUCT_MODEL := TF300T

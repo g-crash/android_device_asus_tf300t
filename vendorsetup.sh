@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo full_tf300t-userdebug
+add_lunch_combo lineage_tf300t-userdebug
